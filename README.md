@@ -1,1 +1,1 @@
-This is Cody's first edited git project!
+This is Cody's second edited git project!
